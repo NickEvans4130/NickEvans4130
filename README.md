@@ -4,16 +4,10 @@
 
 I'm a passionate developer with an interest in discord bots and cyber security. I enjoy working on open-source projects and continually learning new technologies.
 
-- 🔭 I’m currently working on [DailyGeo]([link-to-your-project](https://github.com/NickEvans4130/DailyGeoBot))
+- 🔭 I’m currently working on [DailyGeo](https://github.com/NickEvans4130/DailyGeoBot)
 - 🌱 I’m currently learning [DiscordPy and CyberSec]
 - 💬 Ask me about [Discord Development]
 - ⚡ Fun fact: [I'm a taekwondo athelete 🥋]
-
-### Skills
-
-- **Languages**: [Python]
-- **Frameworks**: [List of Frameworks]
-- **Tools**: [List of Tools]
 
 ### GitHub Stats
 
@@ -21,21 +15,14 @@ I'm a passionate developer with an interest in discord bots and cyber security. 
 
 ### Connect with Me
 
-- [LinkedIn](https://www.linkedin.com/in/your-linkedin-profile)
-- [Twitter](https://twitter.com/your-twitter-profile)
-- [Personal Website](https://www.your-website.com)
+- [LinkedIn](www.linkedin.com/in/nick-evans-893593243)
+- [Twitter](https://x.com/NickEvans4130)
 
 ### Featured Projects
 
-1. [Project 1](link-to-project-1) - A brief description of the project.
-2. [Project 2](link-to-project-2) - A brief description of the project.
-3. [Project 3](link-to-project-3) - A brief description of the project.
-
-### Latest Blog Posts
-
-- [Post 1](link-to-post-1)
-- [Post 2](link-to-post-2)
-- [Post 3](link-to-post-3)
+1. [Se7oordle](https://github.com/NickEvans4130/Se7oordle) - Se7oordle is a discord bot that allows server members to compete in a wordle-like format and earn points based on how good their guess is.
+2. [CyberSweep](https://github.com/NickEvans4130/CyberSweep) - CyberSweep is a discord bot that will allow users to assess the vulnerabilities of different websites, generate a report and tell you how to patch the vulnerabilities.
+3. [DailyGeo](https://github.com/NickEvans4130/DailyGeoBot) - DailyGeo is a discord bot that generates and posts a new GeoGuessr challenge every day, allowing server members to compete with eachother and track their performance over time.
 
 Thanks for visiting my profile!
 
