@@ -5,9 +5,9 @@
 I'm a passionate developer with an interest in discord bots and cyber security. I enjoy working on open-source projects and continually learning new technologies.
 
 - 🔭 I’m currently working on [DailyGeo](https://github.com/NickEvans4130/DailyGeoBot)
-- 🌱 I’m currently learning [DiscordPy and CyberSec]
-- 💬 Ask me about [Discord Development]
-- ⚡ Fun fact: [I'm a taekwondo athelete 🥋]
+- 🌱 I’m currently learning DiscordPy and CyberSec
+- 💬 Ask me about Discord Development
+- ⚡ Fun fact: I'm a taekwondo athelete 🥋
 
 ### GitHub Stats
 
