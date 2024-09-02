@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on [DailyGeo](https://github.com/NickEvans4130/DailyGeoBot)<br>🌱 I’m currently learning DiscordPy and CyberSec<br>💬 Ask me about Discord Development<br>⚡ Fun fact: I'm a taekwondo athlete 🥋
+🔭 I’m currently working on [DailyGeo](https://github.com/NickEvans4130/DailyGeoBot)<br>🌱 I’m currently learning CyberSec and Java<br>💬 Ask me about Discord Development<br>⚡ Fun fact: I'm a taekwondo athlete 🥋
 
 
 ## 🌐 Socials:
